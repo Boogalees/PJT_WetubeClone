@@ -1,0 +1,11 @@
+{
+  "name": "pjt_wetubeclone",
+  "version": "1.0.0",
+  "description": "Youtube clonning with vanilla JS and Node JS",
+  "main": "index.js",
+  "author": "WONHEELEE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
